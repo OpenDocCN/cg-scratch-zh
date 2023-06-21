@@ -8,7 +8,7 @@
 > 
 > 我自成佛自度我，佛度凡尘我度佛。
 
-* [在线阅读](https://cgfs.apachecn.org)
+* [在线阅读](https://cgfs.flygon.net)
 ## 下载
 
 ### Docker
